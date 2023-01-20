@@ -1,7 +1,6 @@
 var elForm = document.querySelector(".site_form");
 var elFormName = document.querySelector(".site_input");
 var elFormPrice = document.querySelector(".form_resalt");
-var elFormResult = document.querySelector(".form_resalt");
 
 var ombor = [];
 
