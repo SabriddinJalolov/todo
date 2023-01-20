@@ -43,3 +43,4 @@ function deleteProduct(last) {
     ombor.splice(last, 1);
     drawPage();
 }
+

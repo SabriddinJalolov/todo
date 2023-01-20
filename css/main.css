@@ -82,10 +82,11 @@ img {
 .text{
     
     width: 400px;
-    height: 40px;
+    /* height: 40px; */
     border: 2px solid #07f23e;
     border-radius: 6px;
     padding: 10px;
+       
     background-color: #fff;
 }
 
