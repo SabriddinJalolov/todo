@@ -44,3 +44,4 @@ function deleteProduct(last) {
     drawPage();
 }
 
+
